@@ -62,10 +62,3 @@ Each folder contains:
 - scikit-learn
 
 ---
-
-## 🚀 How to Run (To be updated)
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/gesture-tv-control.git
-   cd gesture-tv-control
